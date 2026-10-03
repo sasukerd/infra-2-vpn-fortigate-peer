@@ -49,6 +49,4 @@ Tráfico interesante: `10.20.25.0/25` hacia `10.8.73.0/28`.
 
 Enlace del video de la infraestructura 2:
 
-https://
-
-Reemplaza esa línea por la URL del video cuando lo subas.
+https://youtu.be/SxBwcR60QdM
