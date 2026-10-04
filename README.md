@@ -1,5 +1,9 @@
 # Infraestructura 2: VPN site-to-site entre FortiGate y un equipo de red
 
+## Video
+
+https://youtu.be/SxBwcR60QdM
+
 Matricula: **2025-0873**
 
 ## Diagrama
@@ -42,6 +46,4 @@ En esta infraestructura solo hay un FortiGate. El otro extremo es Ubuntu con str
 
 Trafico interesante: `10.20.25.0/25` hacia `10.8.73.0/28`.
 
-## Video
 
-https://youtu.be/SxBwcR60QdM
