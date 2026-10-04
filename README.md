@@ -24,6 +24,9 @@ flowchart LR
     UP["Tunel UP\nping responde\nsalto 1: 10.20.25.1"] --> DOWN["Tunel DOWN\nping timeout\nISP sin ruta privada"]
     DOWN --> UP2["Tunel UP otra vez\nping responde"]
 ```
+<img width="408" height="448" alt="image" src="https://github.com/user-attachments/assets/f73da90e-2126-43ca-a7a8-75874e4f43ba" />
+
+
 
 ## Objetivo
 
